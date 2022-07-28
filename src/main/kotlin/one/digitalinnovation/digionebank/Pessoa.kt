@@ -9,5 +9,5 @@ fun main () {
     val thiago = Pessoa()
 
     println(thiago.nome)
-    println(thiago.cpf )
+    println(thiago.cpf)
 }
